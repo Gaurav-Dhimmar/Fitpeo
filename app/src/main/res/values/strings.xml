@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android App</string>
+    <string name="no_internet_connection_body">please check your internet connection and try again</string>
+    <string name="loading">loading</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="no_internet_connection_title">no internet connection</string>
+    <string name="typicodeList">Typicode List</string>
+    <string name="typicodeDetails">Typicode Details</string>
+    <string name="welComeAndroidAssignment">Welcome Android Assignment</string>
+    <string name="albumList">Album List</string>
+    <string name="albumDetails">Album Details</string>
+</resources>
